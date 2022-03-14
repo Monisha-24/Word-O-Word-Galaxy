@@ -10,4 +10,3 @@ C:\Program Files\NetBeans 8.2 RC\java\modules\ext.
 
 Incase , if you can't go with the above steps,then  you can simply download these jar files from our repository.We've uploaded those two inside the library folder.
 
-Working demo of Word-O-Word Galaxy: https://drive.google.com/drive/folders/1Ov-9yqS4sURdYJ563tH79CDdMIFgW1hu?usp=sharing
